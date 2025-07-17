@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+  "title": "Harry Potter: The Magic Awakens",
+  "author": "WizardingWorldFan",
+  "date": "2025-07-15",
+  "tags": [
+    "Harry Potter",
+    "Fantasy",
+    "Magic",
+    "Adventure"
+  ],
+  "image": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2022/04/Harry-Potter-goblet-of-fire.jpg",
+  "summary": "A young boy discovers he’s a wizard and is thrust into a magical world full of danger, friendship, and destiny.",
+  "content": "Harry Potter begins his journey at Hogwarts School of Witchcraft and Wizardry, where he uncovers the truth about his past, forms lasting friendships, and confronts the dark wizard Voldemort. The series blends magical lore, epic battles, and emotional depth across its seven books and eight films."
+  },
+  {
+    "id": 2,
+  "title": "The Jungle Book: Nature’s Wild Tale",
+  "author": "ClassicCinemaZone",
+  "date": "2025-07-15",
+  "tags": [
+    "The Jungle Book",
+    "Adventure",
+    "Disney",
+    "Classic"
+  ],
+  "image": "https://wallpapercave.com/wp/wp6479425.jpg",
+  "summary": "A boy raised by wolves navigates the jungle and learns the true meaning of home and family.",
+  "content": "Set deep in the Indian jungle, The Jungle Book follows Mowgli, a human child raised by animals, as he faces the fearsome tiger Shere Khan and discovers his place in the world. With unforgettable characters like Baloo and Bagheera, the film mixes musical charm, wild adventure, and heartfelt themes of belonging."
+  },
+  {
+    "id": 3,
+  "title": "Avengers: Earth's Mightiest Heroes",
+  "author": "HeroWatch",
+  "date": "2025-07-15",
+  "tags": [
+    "Avengers",
+    "Marvel",
+    "Superhero",
+    "Action"
+  ],
+  "image": "https://www.vintagemovieposters.co.uk/wp-content/uploads/2022/09/IMG_7675-scaled.jpeg",
+  "summary": "When the world needs saving, they assemble to protect it—no matter the cost.",
+  "content": "The Avengers brings together iconic Marvel heroes like Iron Man, Captain America, and Thor to fight threats too big for any one hero. With epic battles, emotional arcs, and universe-shaking stakes, the team proves that unity is the ultimate superpower."
+  },
+  {
+    "id": 4,
+    "title": "Money Heist: Red Hood Revolution",
+    "author": "HeistTheory",
+    "date": "2025-07-08",
+    "tags": [
+      "Money Heist",
+      "Netflix",
+      "Thriller",
+      "Heist"
+    ],
+    "image": "https://wallpapers.com/images/featured/money-heist-segtwbhffwy01w82.jpg",
+    "summary": "The Professor and his crew fight for more than money—they fight for rebellion.",
+    "content": "With charismatic characters and heart-pounding tension, Money Heist became a global sensation. The blog explores symbolism behind the red suits and the Berlin-Tokyo connection."
+  },
+  {
+    "id": 5,
+  "title": "Spider-Man: With Great Power Comes Great Responsibility",
+  "author": "HeroWatch",
+  "date": "2025-07-15",
+  "tags": [
+    "Spider-Man",
+    "Marvel",
+    "Superhero",
+    "Coming of Age"
+  ],
+  "image": "https://cdn.shopify.com/s/files/1/1057/4964/products/Spider-Man-No-Way-Home-Vintage-Movie-Poster-Original-1-Sheet-27x41_25b5dfd9-d4d0-45f1-ad92-c7a118525092.jpg?v=1652936730",
+  "summary": "A teenage hero struggles to balance life, loss, and the weight of saving the world.",
+  "content": "Spider-Man swings into hearts with his relatable journey from an ordinary teen to a selfless hero. Whether it’s Peter Parker facing high school drama or multiverse madness, the story blends heart, humor, and heroism like no other."
+  },
+  {
+    "id": 6,
+    "title": "Wednesday: Gothic Girl Power",
+    "author": "MysteryMuse",
+    "date": "2025-07-06",
+    "tags": [
+      "Wednesday",
+      "Netflix",
+      "Mystery",
+      "Teen"
+    ],
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzbbFSFfMm38LiJc_fUzTqQphHD24tmlzj6g&s",
+    "summary": "Wednesday Addams takes center stage in a spooky, stylish mystery at Nevermore Academy.",
+    "content": "With Tim Burton’s signature flair, Wednesday blends gothic aesthetics with teen drama and supernatural intrigue. Jenna Ortega’s performance is a standout."
+  },
+  {
+    "id": 7,
+    "title": "Loki: Time Twists and Mischief",
+    "author": "MarvelChronicles",
+    "date": "2025-07-05",
+    "tags": [
+      "Loki",
+      "Disney+",
+      "Marvel",
+      "Sci-Fi"
+    ],
+    "image": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/f6f10206-8eab-4ebc-954e-9b3f2932283e/compose?aspectRatio=1.78&format=webp&width=1200",
+    "summary": "The God of Mischief faces the Time Variance Authority in a multiverse-bending adventure.",
+    "content": "Loki explores identity, destiny, and chaos across timelines. The blog unpacks TVA lore, Sylvie’s arc, and the implications for Marvel’s Phase 5."
+  },
+  {
+    "id": 8,
+    "title": "Squid Game: Survival and Society",
+    "author": "KDramaDecoded",
+    "date": "2025-07-04",
+    "tags": [
+      "Squid Game",
+      "Netflix",
+      "Korean",
+      "Thriller"
+    ],
+    "image": "https://wallpapercat.com/w/full/6/e/4/46462-3840x2160-desktop-4k-squid-game-background-image.jpg",
+    "summary": "456 players risk their lives in deadly games for a life-changing prize.",
+    "content": "Squid Game critiques capitalism and desperation through brutal competition. This post explores symbolism, character arcs, and global impact."
+  },
+  {
+    "id": 9,
+    "title": "Peaky Blinders: Grit and Glory",
+    "author": "BritishSaga",
+    "date": "2025-07-03",
+    "tags": [
+      "Peaky Blinders",
+      "BBC",
+      "Crime",
+      "Drama"
+    ],
+    "image": "https://4kwallpapers.com/images/wallpapers/peaky-blinders-tv-3840x2160-14931.jpg",
+    "summary": "Tommy Shelby leads a gang through post-WWI Birmingham with style and ruthlessness.",
+    "content": "Peaky Blinders is a visual feast of noir storytelling, political intrigue, and family drama. We explore its historical roots and character evolution."
+  }
+]
